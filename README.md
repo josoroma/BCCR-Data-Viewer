@@ -3,6 +3,8 @@
 
 This project is a Streamlit application to view BCCR data.
 
+![App](./app.jpeg)
+
 ## Installation
 
 1. Clone the repository.
